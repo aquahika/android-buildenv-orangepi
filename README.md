@@ -22,7 +22,7 @@ docker run --rm -v $(pwd):/workdir aquahika/android-buildenv-orangepi4 ./make.sh
 
 
 ## Note
-My **Ryzen 7 3700X** (8 core/16 thread) with modyfied `make.sh` with `make -j16` took approximately **50 minutes** to build whole images (with -F -M -u options). And final result size (include artifacts probably) got be **60GB**.
+My **Ryzen 7 3700X** (8 core/16 thread) with modyfied `make.sh` with `make -j16` took approximately **50 minutes** to build whole images (with -F -M -u options). And final result size (include artifacts probably) got be **97GB**.
 
 
 
